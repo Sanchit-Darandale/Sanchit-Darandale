@@ -45,8 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanchit-Darandale&show_icons=true&locale=en" alt="Sanchit-Darandale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-Darandale&" alt="Sanchit-Darandale" /></p>
-
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit-Darandale)
 
 
