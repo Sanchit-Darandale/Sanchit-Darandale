@@ -30,7 +30,7 @@
 <h3 align="center">Connect with me: ❤️</h3>
 <p align="center">
 
-[<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/TG_icon.png" width="60px">](https://t.me/THE_UNF_OFFICIAL) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/GH_icon.png" width="60px">](https://github.com/Sanchit-Darandale) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/IG_icon.png" width="60px">](https://instagram.com/sanchit_darandale)
+[<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/TG_icon.png" width="60px">](https://t.me/The_Silent_Ghost) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/GH_icon.png" width="60px">](https://github.com/Sanchit-Darandale) [<img src="https://raw.githubusercontent.com/Sanchit0102/Sanchit0102/main/DS/IG_icon.png" width="60px">](https://instagram.com/sanchit_darandale)
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit-Darandale)
 
