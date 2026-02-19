@@ -9,7 +9,7 @@
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit-Darandale)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanchit-Darandale" alt="Sanchit-Darandale" /></a> </p>
+<p align="left"> <a href="https://github.com/Sanchit-Darandale"><img src="https://github-profile-trophy.vercel.app/?username=Sanchit-Darandale&theme=darkhub" alt="Sanchit-Darandale" /></a> </p>
 
 [<img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif"/>](https://github.com/Sanchit-Darandale)
 
