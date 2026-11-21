@@ -66,7 +66,7 @@
   <img align="right" src="https://github.com/Sanchit0102/Sanchit0102/blob/3403257f5136ed67cd6a67f2934f81bf340e5057/DS/song.gif" width="260" alt="Developer Coding"/>
 </p>
 
-- 🎓 AI & Data Science Student 🇮🇳
+- 🎓 AI & Data Science Student from Maharashtra, India.
 - 💻 Building real-world software solutions
 - 🤖 Exploring AI, ML & Data Science
 - ⚙️ Interested in Backend & API Development
