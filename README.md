@@ -67,11 +67,11 @@
 </p>
 
 - 🎓 AI & Data Science Student from Maharashtra, India.
-- 💻 Building real-world software solutions
-- 🤖 Exploring AI, ML & Data Science
-- ⚙️ Interested in Backend & API Development
+- 💻 Passionate about Building real-world software solutions.
+- 🤖 Exploring AI, ML & Data Science.
+- ⚙️ Interested in Backend & API Development. 
 - 🚀 Learning and experimenting with new technologies
-- 🧩 Solving problems through code
+- 🧩 Believe in learning by building, experimenting and solving problems.
 
 <br clear="right"/>
 
