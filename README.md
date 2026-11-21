@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -224,7 +224,7 @@
 
 <p align="center">
   <a href="https://github.com/Sanchit-Darandale">
-    <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
+    <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Header Animation"/>
   </a>
 </p>
 
@@ -246,7 +246,7 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Silent Ghost Animation"/>
+  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Silent Ghost Animation"/>
 </p>
 
 <h2 align="center">⚡ S I L E N T &nbsp; G H O S T ⚡</h2>
@@ -266,5 +266,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/DS/DS.gif" width="100%" alt="Silent Ghost Animation"/>
+  <img src="https://github.com/Sanchit0102/Sanchit0102/blob/main/DS/DS.gif" width="100%" alt="Silent Ghost Animation"/>
 </p>
