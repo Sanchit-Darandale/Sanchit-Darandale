@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sanchit-Darandale/Sanchit-Darandale/blob/main/OIG1.jpeg" width="600" alt="Profile Logo"/>
+  <img src="https://github.com/Sanchit-Darandale/Sanchit0102/blob/main/OIG1.jpeg" width="600" alt="Profile Logo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanchit</h1>
