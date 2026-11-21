@@ -63,7 +63,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer Coding"/>
+  <img align="right" src="https://github.com/Sanchit0102/Sanchit0102/blob/3403257f5136ed67cd6a67f2934f81bf340e5057/DS/song.gif" width="260" alt="Developer Coding"/>
 </p>
 
 - 🎓 AI & Data Science Student 🇮🇳
